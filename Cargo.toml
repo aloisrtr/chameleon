@@ -1,0 +1,10 @@
+[package]
+name = "chameleon"
+version = "0.1.0"
+edition = "2021"
+authors = ["Aloïs Rautureau <alois.rautureau@ens-rennes.fr>"]
+license = "MIT OR Apache 2.0"
+description = "General game playing (GGP) framework designed to be extensible, embedable and efficient."
+
+[dependencies]
+rand = "0.8.5"
